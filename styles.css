@@ -1,9 +1,7 @@
-/* Reset some default styles */
-
 body, h1, h2, p {
     margin: 0;
     padding: 0;
-}/*
+}
 
 body {
     font-family: 'Arial', sans-serif;
@@ -31,8 +29,10 @@ h2 {
     color: #333;
 }
 
+h3{
+    margin-top: 0;
+}
+
 .project {
     margin-bottom: 1.5rem;
 }
-
-/* Add more styles as needed */
