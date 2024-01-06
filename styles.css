@@ -25,11 +25,11 @@ section {
     padding: 0 1rem;
 }
 
-h2 {
+.about h2, .project h2, .contacts h2 {
     color: #333;
 }
 
-h3{
+.about h3, .project h3, .contacts h3 {
     margin-top: 0;
     margin-bottom: 0;
 }
@@ -48,6 +48,16 @@ h3{
     text-decoration: underline;
 }
 
-.ProjectLink a{
+header h1 a {
+    text-decoration: none;
+    color: #fff; 
+    transition: text-decoration 0.3s;
+}
+
+header h1 a:hover {
+    text-decoration: underline;
+}
+
+header h2{
     font-weight: normal;
 }
