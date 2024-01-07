@@ -61,3 +61,11 @@ header h1 a:hover {
 header h2{
     font-weight: normal;
 }
+
+.whiteboard-pics {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+    display: block;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
