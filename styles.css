@@ -69,3 +69,7 @@ header h2{
     display: block;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
+
+.files h3{
+    margin-bottom: 0;
+}
