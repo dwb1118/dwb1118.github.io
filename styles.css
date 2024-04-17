@@ -77,3 +77,7 @@ header h2{
 .resume h2 {
     margin-bottom: 3.0rem;
 }
+
+.resume a{
+    margin-top: 10px
+}
