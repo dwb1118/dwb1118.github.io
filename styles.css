@@ -74,10 +74,10 @@ header h2{
     margin-bottom: 0;
 }
 
-.resume h2 {
+#resume h2 {
     margin-bottom: 3.0rem;
 }
 
-.resume a{
+#resume a{
     margin-top: 10px
 }
