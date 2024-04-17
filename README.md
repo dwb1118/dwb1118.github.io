@@ -1,2 +1,4 @@
 # dwb1118.github.io
-Personal Portfolio Website
+My Personal Portfolio Website.
+
+Contains my contact information, resume, and information about me and my projects.
